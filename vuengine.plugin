@@ -1,0 +1,12 @@
+{
+	"displayName": {
+		"en": "VUEngine Barebone Plugin"
+	},
+	"author": "Team VUEngine",
+	"description": {},
+	"repository": "",
+	"license": "",
+	"tags": [],
+	"dependencies": [],
+	"configuration": []
+}
